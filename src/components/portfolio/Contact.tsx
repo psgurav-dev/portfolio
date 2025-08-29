@@ -44,7 +44,7 @@ const Contact = () => {
     {
       icon: Github,
       label: "GitHub",
-      href: "https://github.com/psgurav04", // Update with actual GitHub
+      href: "https://github.com/prasad-gurav", // Update with actual GitHub
       gradient: "from-gray-600 to-gray-400"
     },
     {
