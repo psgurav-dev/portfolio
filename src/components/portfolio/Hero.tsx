@@ -80,7 +80,7 @@ const Hero = () => {
           </p>
           
           <p className="text-lg text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed">
-            3+ years of experience crafting modern web applications with React, Next.js, and cutting-edge technologies. Based in Pune, MH.
+            3+ years of experience crafting modern web applications as a Full Stack Developer using React, Next.js, Node.js, Django REST, and modern technologies.
           </p>
 
           <div ref={buttonsRef} className="flex flex-col sm:flex-row gap-6 justify-center items-center">
